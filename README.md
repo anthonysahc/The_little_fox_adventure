@@ -1,15 +1,15 @@
 # The_little_fox_adventure
 The little fox adventure is a 2D platformer video game, make with the game engine Unity and C# programming language. I do this project alone.
 
-Played Fox and browse 3 differente levels with enemie and trap.
+Played Fox and browse 3 different levels with enemies and traps.
 
 Control :
 
-- Z / ↑ : Take stairs
+- Z : Take stairs
 - Q / ← : Move left
 - D / → : Move right
 - S / ↓ : Crouch
-- Space : Jump
+- Space / ↑ : Jump
 - Escap : Pause
 
 Game elments :
@@ -21,4 +21,4 @@ Game elments :
 - Traps appear above the player in specific areas
 - 3 differente difficulties
 
-Make in 2022
+Make in 2021 with 2020.3.30f1 Unity editor version
