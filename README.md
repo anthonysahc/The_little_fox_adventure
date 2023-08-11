@@ -5,11 +5,11 @@ Played Fox and browse 3 different levels with enemies and traps.
 
 Control :
 
-- Z / ↑ : Take stairs
+- Z : Take stairs
 - Q / ← : Move left
 - D / → : Move right
 - S / ↓ : Crouch
-- Space : Jump
+- Space / ↑ : Jump
 - Escap : Pause
 
 Game elments :
