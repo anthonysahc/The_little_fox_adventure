@@ -1,5 +1,5 @@
 # The_little_fox_adventure
-The little fox adventure is a 2D platformer video game, made with the game engine Unity and C# programming language. I do this project alone.
+The little fox adventure is a 2D platformer video game, made with the game engine Unity and C# programming language. I did this project alone.
 
 Played Fox and browse 3 different levels with enemies and traps.
 
